@@ -7,6 +7,8 @@ enum {
     _LS,
 };
 
+// Keymaps
+
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [_WB] = LAYOUT_split_3x6_3(
   //,-------------------------------------------------------.                    ,-------------------------------------------------------.
